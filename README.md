@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/hWjHdkl.png" height="20%" width="20%"/>
+<img src="https://i.imgur.com/hWjHdkl.png" height="30%" width="30%"/>
 </p>
 <h1>Launching an EC2 Instance in AWS</h1>
 In this project, I launched an EC2 instance and connected to the instance using an SSH client.
@@ -14,6 +14,7 @@ In this project, I launched an EC2 instance and connected to the instance using 
 - SSH
 - Key pairs
 - Security Groups
+<br />
 
 <h2>High-Level Steps</h2>
 
@@ -22,6 +23,7 @@ In this project, I launched an EC2 instance and connected to the instance using 
 - Create and then launch an EC2 instance
 - Connect to the instance using an SSH client
 - Terminate the instance and corresponding security group
+<br />
 
 <h2>Synopsis</h2>
 
