@@ -76,7 +76,7 @@ As you can see, there are a few ways to connect to an instance. Using EC2 Instan
 <img src="https://i.imgur.com/vSzOdee.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+To begin the process of connecting to the instance using SSH, I opened up the Windows CLI. Since I downloaded my part of the SSH key pair to my Downloads folder, I used the "cd" command to move to my Downloads folder. On the "Connect to instance" page, I copied and pasted the command under "Example:" into the CLI; this command uses the local SSH client and the downloaded key to connect to the EC2 user and instance. After running the command and confirming that I wanted to continue connecting, I was now connected to my EC2 instance!
 </p>
 <br />
 <br />
