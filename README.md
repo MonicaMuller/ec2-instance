@@ -55,7 +55,7 @@ Now that the key pair is created, it's time to create an instance. I went back t
 <br />
 
 <p>
-<img src="https://i.imgur.com/LVL3xjV.png" height="80%" width="80%"/>
+<img src="https://i.imgur.com/caVfsxz.png" height="80%" width="80%"/>
 </p>
 <p>
 Lorem ipsum
