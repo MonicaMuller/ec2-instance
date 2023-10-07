@@ -84,11 +84,6 @@ Lorem ipsum
 <p>
 <img src="https://i.imgur.com/ix293LH.png" height="80%" width="80%"/>
 </p>
-<p>
-Lorem ipsum
-</p>
-<br />
-<br />
 
 <p>
 <img src="https://i.imgur.com/0oQmOOt.png" height="80%" width="80%"/>
