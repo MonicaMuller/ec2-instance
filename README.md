@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/hWjHdkl.png" height="25%" width="25%"/>
 </p>
 <h1>Launching and Connecting to an EC2 Instance in AWS</h1>
-In this project, I launched an EC2 instance and connected to the instance using an SSH client.
+In this project, I launched an EC2 instance and connected to the instance using an SSH client. Instances are essentially virtual machines/servers that launch into a VPC subnet
 <br />
 <br />
 
@@ -28,18 +28,10 @@ In this project, I launched an EC2 instance and connected to the instance using 
 <h2>Synopsis</h2>
 
 <p>
-<img src="https://i.imgur.com/RSrVP98.png" height="80%" width="80%"/>
-</p>
-<p>
-Lorem ipsum
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/dawUj0D.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+For this lab, I used an IAM user in my general training account and stayed in the AWS Free Tier. 
 </p>
 <br />
 
