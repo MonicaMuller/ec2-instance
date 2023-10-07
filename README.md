@@ -58,7 +58,7 @@ Now that the key pair is created, it's time to create an instance. I went back t
 <img src="https://i.imgur.com/caVfsxz.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+The instance might take a few minutes to be set up, so be prepared to wait for a little during this part. The "Instance state" will start as "Pending" and eventually transition to "Running." At this point, the "Status check" will be "Initializing" and will eventually say "2/2 checks passed." Clicking the Refresh button at the top of the screen next to the "Connect" button will help with knowing where you are in the process. Once that's done, I connected to the instance by right-clicking on it and selecting "Connect."
 </p>
 <br />
 <br />
