@@ -49,7 +49,7 @@ After arriving at the EC2 Dashboard, I scrolled down the options on the left sid
 <img src="https://i.imgur.com/sBiOMII.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+Now that the key pair is created, it's time to create an instance. I went back to the EC2 Dashboard and clicked on "Instances" under "Instances." For the AMI (Amazon Machine Image) for the instance - which is the version of the operating system that the instance will run, - I went with the default of Amazon Linux. Under "Key pair (login)," I selected the key pair I created in the previous step. Lastly, under "Network settings" I created a security group, which essentially acts as a mini firewall, and then launched the instance. Although this is my first time using Security Groups in AWS, I used a Security Group in Azure to create an inbound security rule denying ICMP traffic; if you're curious about that, check out my Wireshark project!
 </p>
 <br />
 <br />
