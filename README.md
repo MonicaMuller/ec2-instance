@@ -67,7 +67,7 @@ The instance might take a few minutes to be set up, so be prepared to wait for a
 <img src="https://i.imgur.com/1bLZss7.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+As you can see, there are a few ways to connect to an instance. Using EC2 Instance Connect connects you to the instance using a web console, which means that through your web browser, you'll be taken to the terminal of the EC2 instance and automatically connect. However, I created an SSH key pair earlier in the lab that I wanted to use to connect to my instance, so I connected using an SSH client.
 </p>
 <br />
 <br />
