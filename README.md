@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/hWjHdkl.png" height="25%" width="25%"/>
 </p>
-<h1>Launching an EC2 Instance in AWS</h1>
+<h1>Launching and Connecting to an EC2 Instance in AWS</h1>
 In this project, I launched an EC2 instance and connected to the instance using an SSH client.
 <br />
 <br />
