@@ -58,7 +58,7 @@ Now that the key pair is created, it's time to create an instance. I went back t
 <img src="https://i.imgur.com/caVfsxz.png" height="80%" width="80%"/>
 </p>
 <p>
-The instance might take a few minutes to be set up, so be prepared to wait for a little during this part. The "Instance state" will start as "Pending" and eventually transition to "Running." At this point, the "Status check" will be "Initializing" and will eventually say "2/2 checks passed." Clicking the Refresh button at the top of the screen next to the "Connect" button will help with knowing where you are in the process. Once that's done, I connected to the instance by right-clicking on it and selecting "Connect."
+The instance might take a few minutes to set up, so be prepared to wait for a little during this part. The "Instance state" will start as "Pending" and eventually transition to "Running." At this point, the "Status check" will be "Initializing" and will eventually say "2/2 checks passed." Clicking the Refresh button at the top of the screen next to the "Connect" button will help with knowing where you are in the process. Once that's done, I connected to the instance by right-clicking on it and selecting "Connect."
 </p>
 <br />
 <br />
@@ -89,12 +89,12 @@ To begin the process of connecting to the instance using SSH, I opened up the Wi
 <img src="https://i.imgur.com/0oQmOOt.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum
+Last but not least: clean up. Although I stayed in the Free Tier for this lab, it's good practice to delete what you no longer need in order to avoid clutter and unnecessary charges. I first terminated the instance by right-clicking on it and selecting "Terminate instance." Next, I went to "Network & Security" -> "Security Groups" and selected the security group I created with the instance, and then selected "Actions" -> "Delete security groups." 
 </p>
 <br />
 <br />
 
 <p>
-✨ Lorem ipsum
+✨ This was my first time using AWS aside from creating accounts or configuring billing and security settings, and I have to say, it was pretty fun! While connecting to an instance with EC2 Instance Connect seems easier, I'm glad I learned how to connect using the CLI. I'm still pretty early in my AWS journey, but I'm excited to learn more and work towards completing complex projects.
 </p>
 <br />
