@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/hWjHdkl.png" height="25%" width="25%"/>
 </p>
 <h1>Launching and Connecting to an EC2 Instance in AWS</h1>
-In this project, I launched an EC2 instance and connected to the instance using an SSH client. Instances are virtual machines/servers that launch into a VPC subnet and consist of 4 components: CPU, memory, disk, and networking. Also, since instances launch into VPC subnets and subnets are AZ resilient, EC2 instances are also AZ resilient.
+In this project, I launched an EC2 instance and connected to the instance using an SSH client. Instances are virtual servers that launch into a VPC subnet and consist of 4 components: CPU, memory, disk, and networking. Also, since instances launch into VPC subnets and subnets are AZ resilient, EC2 instances are also AZ resilient.
 <br />
 <br />
 
